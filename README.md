@@ -1,4 +1,4 @@
-# release-drafter-example
+# release-drafter-examples
 
 ![](https://media.giphy.com/media/CDZwopbecAbIc/giphy-downsized.gif)
 
